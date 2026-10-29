@@ -1,0 +1,25 @@
+export { MTCaptcha } from './MTCaptcha';
+
+export type {
+  MTCaptchaAccessibilityLabels,
+  MTCaptchaAccessibilityLanguage,
+  MTCaptchaButtonIconColor,
+  MTCaptchaChallengeType,
+  MTCaptchaCustomAccessibilityText,
+  MTCaptchaCustomFontFace,
+  MTCaptchaCustomFonts,
+  MTCaptchaCustomLangEntry,
+  MTCaptchaCustomLangText,
+  MTCaptchaCustomStyle,
+  MTCaptchaFontFormat,
+  MTCaptchaHandle,
+  MTCaptchaInputBorderColor,
+  MTCaptchaLowFrictionInvisible,
+  MTCaptchaProps,
+  MTCaptchaState,
+  MTCaptchaTheme,
+  MTCaptchaTokenInfo,
+  MTCaptchaVerifyResult,
+  MTCaptchaWidgetSize,
+  VerifyMTCaptchaOptions,
+} from './types';
